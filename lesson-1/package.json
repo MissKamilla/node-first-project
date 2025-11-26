@@ -1,0 +1,25 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissKamilla/node-first-project.git"
+  },
+  "author": "Kamilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissKamilla/node-first-project/issues"
+  },
+  "homepage": "https://github.com/MissKamilla/node-first-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "logger-service": "^1.0.2"
+  }
+}
